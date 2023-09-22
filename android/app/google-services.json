@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963273892618",
+    "project_id": "flash-chat-1a2b2",
+    "storage_bucket": "flash-chat-1a2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963273892618:android:8708705bb516bbdbbd90f3",
+        "android_client_info": {
+          "package_name": "co.VinayakSharma.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963273892618-ge6eu065fcli204j5u50gi6pb3ksn2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQ0B8Y_l48gGDErOHuH_XoXiHNf73vk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963273892618-ge6eu065fcli204j5u50gi6pb3ksn2sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
